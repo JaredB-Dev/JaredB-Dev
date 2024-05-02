@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there, my name is Selim Beltrán 👋
+---
+I'm 18 years old and I'm studying in one the best university of Ecuador (ESPOL). When I was young I know that I want to know all about technology.. I mean, who don't?
 
-<!--
-**JaredB-Dev/JaredB-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Now, I'm learning Android with compose, and my favorite phrase to continue in *this world* is: *Let's build the next app that changes the world*.
 
-Here are some ideas to get you started:
+I have basic knowledge of:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="pngs/git.png"> <img src="pngs/google.png"> <img src="pngs/github.png"> <img src="pngs/kotlin.png">
+
+---
+
+<img src="pngs/phrase.png">
