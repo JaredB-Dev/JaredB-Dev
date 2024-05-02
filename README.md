@@ -6,7 +6,7 @@ Now, I'm learning Android with compose, and my favorite phrase to continue in *t
 
 I have basic knowledge of:
 
-<img src="pngs/git.png"> <img src="pngs/google.png"> <img src="pngs/github.png"> <img src="pngs/kotlin.png">
+<img src="pngs/kotlin.png"> <img src="pngs/git.png"> <img src="pngs/github.png"> <img src="pngs/google.png">
 
 ---
 
