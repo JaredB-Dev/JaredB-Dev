@@ -10,4 +10,6 @@ I have basic knowledge of:
 
 ---
 
-<img src="pngs/phrase.png">
+<p align="center">
+  <img src="https://github.com/JaredB-Dev/JaredB-Dev/blob/main/pngs/phrase.png"/>
+</p>
