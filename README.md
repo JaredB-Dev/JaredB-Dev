@@ -7,7 +7,7 @@ Now, I'm learning JavaScript for Microservices Backend, and my favorite phrase t
 ---
 ### My skills are:
 <p align="center"> 
-  <img src="https://github.com/JaredB-Dev/JaredB-Dev/blob/main/pngs/kotlin.png"> <img src="https://github.com/JaredB-Dev/JaredB-Dev/blob/main/pngs/git.png"> <img src="https://github.com/JaredB-Dev/JaredB-Dev/blob/main/pngs/github.png"> <img src="https://github.com/JaredB-Dev/JaredB-Dev/blob/main/pngs/google.png">
+  <img src="pngs/kotlin.png"> <img src="pngs/git.png"> <img src="pngs/github.png"> <img src="pngs/google.png">
 </p>
 
 ---
