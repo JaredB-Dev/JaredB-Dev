@@ -5,9 +5,9 @@ I'm 20 years old and I'm studying in one the best university of Ecuador (ESPOL).
 Now, I'm learning Android with compose, and my favorite phrase to continue in *this world* is: *Let's build the next app that changes the world*.
 
 I have basic knowledge of:
-
-<img src="pngs/kotlin.png"> <img src="pngs/git.png"> <img src="pngs/github.png"> <img src="pngs/google.png">
-
+<p align="center"> 
+  <img src="https://github.com/JaredB-Dev/JaredB-Dev/blob/main/pngs/kotlin.png"> <img src="https://github.com/JaredB-Dev/JaredB-Dev/blob/main/pngs/git.png"> <img src="https://github.com/JaredB-Dev/JaredB-Dev/blob/main/pngs/github.png"> <img src="https://github.com/JaredB-Dev/JaredB-Dev/blob/main/pngs/google.png">
+</p>
 ---
 
 <p align="center">
