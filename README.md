@@ -1,6 +1,6 @@
-### Hi there, my name is Selim Beltrán 👋
+### ¡Hi there 👋! My name is Selim Beltran (Backend Developer)
 ---
-I'm 18 years old and I'm studying in one the best university of Ecuador (ESPOL). When I was young I know that I want to know all about technology.. I mean, who don't?
+I'm 20 years old and I'm studying in one the best university of Ecuador (ESPOL). When I was young I know that I want to know all about technology.
 
 Now, I'm learning Android with compose, and my favorite phrase to continue in *this world* is: *Let's build the next app that changes the world*.
 
