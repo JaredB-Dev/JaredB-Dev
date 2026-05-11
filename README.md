@@ -8,6 +8,7 @@ I have basic knowledge of:
 <p align="center"> 
   <img src="https://github.com/JaredB-Dev/JaredB-Dev/blob/main/pngs/kotlin.png"> <img src="https://github.com/JaredB-Dev/JaredB-Dev/blob/main/pngs/git.png"> <img src="https://github.com/JaredB-Dev/JaredB-Dev/blob/main/pngs/github.png"> <img src="https://github.com/JaredB-Dev/JaredB-Dev/blob/main/pngs/google.png">
 </p>
+
 ---
 
 <p align="center">
