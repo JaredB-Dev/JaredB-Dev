@@ -19,5 +19,5 @@ Now, I'm learning JavaScript for Microservices Backend, and my favorite phrase t
 
 ---
 <p align="center">
-  <img src="pngs/phrase.png"/>
+  <img src="pngs/phrase.png">
 </p>
