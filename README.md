@@ -1,4 +1,4 @@
-# Welcome to my Repository! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px" height="20px" /> 
+# Welcome to my Repository! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> 
 
 - My name is Selim Beltran and I'm a Backend Developer
 
@@ -6,12 +6,11 @@
 
 - Now, I'm learning JavaScript for Microservices Backend, and my favorite phrase to continue in this *tech world* is: *Let's build the next app that changes the world*.
 
-## Personal Projects:
+## Top Projects:
 
 <a href="https://github.com/JaredB-Dev/CurriculumVitae">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JaredB-Dev&repo=CurriculumVitae&theme=buefy" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JaredB-Dev&repo=CurriculumVitae&theme=radical" align="center" />
 </a>
-
 
 <!-- ## My skills are:
 <p align="center"> 
