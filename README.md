@@ -12,6 +12,13 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=JaredB-Dev&repo=CurriculumVitae&theme=radical" align="center" />
 </a>
 
+<a href="https://github.com/JaredB-Dev/ProyectoED">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JaredB-Dev&repo=ProyectoED&theme=radical" align="center" />
+</a>
+
+<a href="https://github.com/JaredB-Dev/my-first-project">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JaredB-Dev&repo=my-first-project&theme=radical" align="center" />
+</a>
 <!-- ## My skills are:
 <p align="center"> 
   <img src="pngs/kotlin.png"> <img src="pngs/git.png"> <img src="pngs/github.png"> <img src="pngs/google.png">
