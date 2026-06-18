@@ -1,9 +1,10 @@
-### ¡Hi there 👋! My name is Selim Beltran (Backend Developer)
+### Welcome to my Repossitory! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px" height="20px" /> 
 ---
-I'm 20 years old and I'm studying in one the best university of Ecuador (ESPOL). When I was young I knew that I went to know all about technology.
+- My name is Selim Beltran and I'm a Backend Developer
 
-Now, I'm learning JavaScript for Microservices Backend, and my favorite phrase to continue in *this world* is: *Let's build the next app that changes the world*.
+- I'm 20 years old and I'm studying in one the best university of Ecuador (ESPOL). When I was young I knew that I went to know all about technology.
 
+- Now, I'm learning JavaScript for Microservices Backend, and my favorite phrase to continue in this *tech world* is: *Let's build the next app that changes the world*.
 ---
 ### My skills are:
 <p align="center"> 
