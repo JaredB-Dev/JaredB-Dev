@@ -8,17 +8,42 @@
 
 ## Top Projects:
 
-<a href="https://github.com/JaredB-Dev/CurriculumVitae">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JaredB-Dev&repo=CurriculumVitae&theme=radical" align="center" />
-</a>
+<table align = "center">
+  <tr>
+    <td width="50%">
+      <h3>To-Do List App ✅</h3>
+      <p>Gestor interactivo de tareas limitadas desarrollado con HTML, CSS y JavaScript, enfocado en la manipulación dinámica del DOM</p>
+    </td>
+    <td width="50%" align = "center">
+      <a href="https://github.com/JaredB-Dev/my-first-project">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=JaredB-Dev&repo=my-first-project&theme=radical" align="center" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>Aplicación de Contactos 📱</h3>
+      <p>Gestor Proyecto académico en Java con Swing. Gestiona un directorio de contactos optimizado mediante estructuras de datos eficientes</p>
+    </td>
+    <td width="50%" align = "center">
+      <a href="https://github.com/JaredB-Dev/ProyectoED">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=JaredB-Dev&repo=ProyectoED&theme=radical" align="center" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>Curriculum Vitae 📄</h3>
+      <p>Página web estática y responsiva que presenta mi perfil profesional y académico, estructurada con HTML y CSS</p>
+    </td>
+    <td width="50%" align = "center">
+      <a href="https://github.com/JaredB-Dev/CurriculumVitae">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=JaredB-Dev&repo=CurriculumVitae&theme=radical" align="center" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-<a href="https://github.com/JaredB-Dev/ProyectoED">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JaredB-Dev&repo=ProyectoED&theme=radical" align="center" />
-</a>
-
-<a href="https://github.com/JaredB-Dev/my-first-project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JaredB-Dev&repo=my-first-project&theme=radical" align="center" />
-</a>
 <!-- ## My skills are:
 <p align="center"> 
   <img src="pngs/kotlin.png"> <img src="pngs/git.png"> <img src="pngs/github.png"> <img src="pngs/google.png">
