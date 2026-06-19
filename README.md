@@ -6,7 +6,7 @@
 
 - Ahora, estoy enfocado en aprender JavaScript para el Backend de Microservicios, y mi frase favorita para continuar en este *mundo tecnológico* es: ***Construyamos la próxima aplicación que cambie el mundo.***
   
-## My Top Projects
+## Mis Proyectos Destacados
 
 <table align = "center">
   <tr>
@@ -49,7 +49,7 @@
   <img src="pngs/kotlin.png"> <img src="pngs/git.png"> <img src="pngs/github.png"> <img src="pngs/google.png">
 </p> -->
 
-## 💻 Learned Technologies
+## 💻 Tecnologías Aprendidas
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
